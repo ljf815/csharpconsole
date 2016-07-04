@@ -11,7 +11,7 @@ namespace test1
         }
         void f()
         {
-            Write("windodff usbuntu");
+            Write("return master");
         }
     }
 }
