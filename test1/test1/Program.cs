@@ -8,5 +8,9 @@ namespace test1
         {
             WriteLine("lskdjfsdk");
         }
+        void f()
+        {
+
+        }
     }
 }
