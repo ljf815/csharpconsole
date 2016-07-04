@@ -13,7 +13,10 @@ namespace test1
         {
             Write("merge tesdt");
         }
+        void f1()
+        {
 
+        }
         void f2()
         {
 
