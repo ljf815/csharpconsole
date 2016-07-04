@@ -11,7 +11,7 @@ namespace test1
         }
         void f()
         {
-            Write("merge test");
+            Write("merge tesdt");
         }
     }
 }
