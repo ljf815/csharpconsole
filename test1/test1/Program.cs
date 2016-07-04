@@ -4,13 +4,14 @@ namespace test1
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             WriteLine("lskdjfsdk");
         }
         void f()
         {
-            Write("lskdjf");
+            Write("sdf"); 
         }
     }
 }
