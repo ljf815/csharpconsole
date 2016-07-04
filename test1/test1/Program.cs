@@ -11,7 +11,7 @@ namespace test1
         }
         void f()
         {
-            Write("visual brance");
+            Write("visual brance2");
         }
     }
 }
