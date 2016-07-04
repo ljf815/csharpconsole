@@ -10,7 +10,7 @@ namespace test1
         }
         void f()
         {
-            Write("lsksdfsddjf");
+            Write("ubuntu");
         }
     }
 }
