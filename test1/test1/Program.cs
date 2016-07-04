@@ -11,7 +11,7 @@ namespace test1
         }
         void f()
         {
-            Write("2windows ubuntu");
+            Write("windowssdf u2sbuntu");
         }
     }
 }
